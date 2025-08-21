@@ -1,0 +1,13 @@
+# 基础数据科学库
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# 深度学习框架 (可以先注释掉，用哪个再取消注释)
+# torch
+# torchvision
+# tensorflow
+
+# 其他常用工具
+jupyterlab

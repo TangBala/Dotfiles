@@ -1,0 +1,32 @@
+# Python build artifacts and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments - 绝对不要上传！
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Datasets - 绝对不要上传！
+*.csv
+*.json
+*.pkl
+*.h5
+
+# OS-specific files
+.DS_Store
+Thumbs.db

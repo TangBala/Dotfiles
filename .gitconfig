@@ -1,0 +1,9 @@
+[user]
+	name = TangBala
+	email = 3853090976@qq.com
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	cm = commit -m
+	lg = log --oneline --graph --all
